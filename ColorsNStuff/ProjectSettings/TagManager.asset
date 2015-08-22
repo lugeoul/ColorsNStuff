@@ -42,3 +42,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Environment
+    uniqueID: 2581372587
+    locked: 0
+  - name: Splatter
+    uniqueID: 1610536533
+    locked: 0
