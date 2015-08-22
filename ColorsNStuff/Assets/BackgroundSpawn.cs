@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class EnvSpawn : MonoBehaviour {
+public class BackgroundSpawn : MonoBehaviour {
 	public GameObject floorTile;
 	void Start () {
 	}
