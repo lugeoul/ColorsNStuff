@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class PlayerController : MonoBehaviour {
-	
+public class col : MonoBehaviour {
+
 	// Use this for initialization
 	void Start () {
 	
