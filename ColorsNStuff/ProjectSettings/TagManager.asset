@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - MainCharacter
+  - FloorCollider
+  - Floor
   layers:
   - Default
   - TransparentFX
