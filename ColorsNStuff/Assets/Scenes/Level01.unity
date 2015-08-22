@@ -393,7 +393,7 @@ GameObject:
   - 4: {fileID: 407711096}
   - 61: {fileID: 407711095}
   - 114: {fileID: 407711094}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: DespawnEnv
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -421,9 +421,9 @@ BoxCollider2D:
   m_Material: {fileID: 0}
   m_IsTrigger: 1
   m_UsedByEffector: 0
-  m_Offset: {x: .5, y: .89292717}
+  m_Offset: {x: 2.44809151, y: .769325256}
   serializedVersion: 2
-  m_Size: {x: 1, y: 6.27449799}
+  m_Size: {x: 4.89618397, y: 44.7780304}
 --- !u!4 &407711096
 Transform:
   m_ObjectHideFlags: 0
@@ -431,7 +431,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 407711093}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -25.5300007, y: -1.71000004, z: 0}
+  m_LocalPosition: {x: -11.5, y: -1.71000004, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1260550545}
@@ -473,19 +473,19 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 447248, guid: 4e3e03d2ee90d7c429084d448624343c, type: 2}
       propertyPath: m_RootOrder
-      value: 4
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 21261204, guid: 4e3e03d2ee90d7c429084d448624343c, type: 2}
       propertyPath: m_Color.r
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 21261204, guid: 4e3e03d2ee90d7c429084d448624343c, type: 2}
       propertyPath: m_Color.g
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 21261204, guid: 4e3e03d2ee90d7c429084d448624343c, type: 2}
       propertyPath: m_Color.b
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 4e3e03d2ee90d7c429084d448624343c, type: 2}
@@ -629,6 +629,11 @@ Prefab:
       propertyPath: m_LocalScale.x
       value: -.100000001
       objectReference: {fileID: 0}
+    - target: {fileID: 21289508, guid: 611b5dc6ad685c942a428d7dab376b19, type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 158544b928d4ad746b056124fa32213d,
+        type: 3}
     m_RemovedComponents:
     - {fileID: 6145086, guid: 611b5dc6ad685c942a428d7dab376b19, type: 2}
     - {fileID: 5006384, guid: 611b5dc6ad685c942a428d7dab376b19, type: 2}
@@ -671,7 +676,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 432362, guid: ae6d5f138c1d17f469a3780750c4e6a2, type: 2}
       propertyPath: m_RootOrder
-      value: 5
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 21242002, guid: ae6d5f138c1d17f469a3780750c4e6a2, type: 2}
       propertyPath: m_Color.r

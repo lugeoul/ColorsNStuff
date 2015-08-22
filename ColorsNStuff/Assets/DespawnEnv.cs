@@ -9,6 +9,6 @@ public class DespawnEnv : MonoBehaviour {
 	}
 	void OnTriggerExit2D (Collider2D col)
 	{
-		DestroyObject (col.gameObject);
+		DestroyObject (col.gameObject.transform.parent.gameObject);
 	}
 }
